@@ -19,7 +19,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 My research interests are in image processing, computer vision, and Automotive Functional Safety 26262.
+* 💻 My research interests are in Image Processing, Computer Vision, and Automotive Functional Safety 26262.
 * Publication:A comparative study of Different Denoising Techniques in Digital Image Processing
 
 
